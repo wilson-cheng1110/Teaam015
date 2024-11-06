@@ -25,9 +25,10 @@ This document serves as a comprehensive guide for the data processing system dep
 6. **Usage Guidelines**
 7. **Data Uploading Process**
 8. **Troubleshooting**
-9. **Future Enhancements**
-10. **Conclusion**
-11. **Appendices**
+9. **CAD Drawings**
+10. **Future Enhancements**
+11. **Conclusion**
+12. **Appendices**
 
 ---
 
@@ -124,19 +125,21 @@ Common issues and their solutions:
 - **Data Processing Errors**: Check for software updates and ensure all modules are properly connected.
 - **Motor Control Issues**: Verify connections to the motor controllers and recalibrate if necessary.
 
-## 9. Future Enhancements
+## 9. CAD Drawings
+![image](https://github.com/user-attachments/assets/0366c46a-8e02-45fe-aa45-63dc889c77e4)
+
+## 10. Future Enhancements
 
 Potential enhancements for the system include:
 
 - Integration of machine learning algorithms for improved waste sorting.
 - Expansion of the camera module for enhanced visual data capture.
-- Development of a mobile application for real-time monitoring and control.
 
-## 10. Conclusion
+## 11. Conclusion
 
 This README provides a detailed overview of the data processing system designed for waste management applications. By leveraging advanced robotics and cloud technology, the system aims to enhance efficiency and accuracy in waste collection and sorting.
 
-## 11. Appendices
+## 12. Appendices
 
 ### Appendix A: Technical Specifications
 
