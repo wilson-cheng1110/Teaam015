@@ -1,0 +1,100 @@
+.c.c {
+  left: 0;
+  top: 0;
+}
+.appleIPadPro11_SilverLandscape.appleIPadPro11_SilverLandscape {
+  border-radius: 150px;
+  background-image:/* webpackIgnore: true */ url('/assets/appleIPadPro11_SilverLandscape2.png');
+}
+.arrow_back.arrow_back {
+  left: 197px;
+  top: 245px;
+  width: 252px;
+  height: 196px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame22 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 2788px;
+  height: 2068px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle4 {
+  position: absolute;
+  left: 487px;
+  top: 347px;
+  width: 2019px;
+  height: 264px;
+  background-color: #d9d9d9;
+}
+.image2 {
+  position: absolute;
+  left: 2242px;
+  top: 367px;
+  width: 225px;
+  height: 225px;
+  background-image:/* webpackIgnore: true */ url('/assets/image2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.solidWasteOverload {
+  color: #111010;
+  font-size: 96px;
+  line-height: 140%;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 553px;
+  top: 367px;
+  width: 1554px;
+  height: 225px;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle42 {
+  position: absolute;
+  left: 487px;
+  top: 770px;
+  width: 2019px;
+  height: 264px;
+  background-color: #d9d9d9;
+}
+.image22 {
+  position: absolute;
+  left: 2242px;
+  top: 790px;
+  width: 225px;
+  height: 225px;
+  background-image:/* webpackIgnore: true */ url('/assets/image22.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cleanLiquid {
+  color: #111010;
+  font-size: 96px;
+  line-height: 140%;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 553px;
+  top: 790px;
+  width: 1554px;
+  height: 225px;
+  justify-content: center;
+  flex-direction: column;
+}

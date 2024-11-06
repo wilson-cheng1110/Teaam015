@@ -1,0 +1,48 @@
+.r.r {
+  left: 0;
+  top: 0;
+}
+.appleIPadPro11_SilverLandscape.appleIPadPro11_SilverLandscape {
+  background-image:/* webpackIgnore: true */ url('/assets/appleIPadPro11_SilverLandscape2.png');
+}
+.arrow_back.arrow_back {
+  left: 288px;
+  top: 198px;
+  width: 228px;
+  height: 212px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.image3 {
+  position: absolute;
+  left: 288px;
+  top: 379px;
+  width: 2112px;
+  height: 1444px;
+  background-image:/* webpackIgnore: true */ url('/assets/image3.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cameraView {
+  color: #1b1919;
+  font-size: 64px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 558px;
+  top: 239px;
+  width: 1516px;
+  height: 113px;
+  flex-direction: column;
+}

@@ -1,0 +1,21 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1210px;
+  height: 834px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.iPadPro11M4SilverLandscape {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 1320px;
+  height: 940px;
+  background-image:/* webpackIgnore: true */ url('/assets/iPadPro11M4SilverLandscape.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: translate(-50%, -50%);
+}

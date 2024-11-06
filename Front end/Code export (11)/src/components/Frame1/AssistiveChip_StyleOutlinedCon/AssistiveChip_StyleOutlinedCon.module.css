@@ -1,0 +1,32 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: min-content;
+  height: min-content;
+  outline: solid 1px #cac4d0;
+  outline-offset: -1px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.stateLayer {
+  width: min-content;
+  height: 32px;
+  align-items: center;
+  padding: 6px 16px;
+}
+.labelText {
+  color: #1d1b20;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.1px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}

@@ -1,0 +1,196 @@
+.appleIPadPro11_SilverLandscape2.appleIPadPro11_SilverLandscape2 {
+  left: 0;
+  top: 0;
+}
+.appleIPadPro11_SilverLandscape.appleIPadPro11_SilverLandscape {
+  background-image:/* webpackIgnore: true */ url('/assets/appleIPadPro11_SilverLandscape3.png'),
+    /* webpackIgnore: true */ url('/assets/appleIPadPro11_SilverLandscape2.png');
+  background-size: cover, cover;
+}
+.arrow_back.arrow_back {
+  left: 236px;
+  top: 196px;
+  width: 228px;
+  height: 212px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.linearDeterminateProgressIndic.linearDeterminateProgressIndic {
+  transform-origin: top left;
+  left: 1272px;
+  top: 1786px;
+  width: 1px;
+  max-width: 100%;
+  height: 1484px;
+  max-height: 100%;
+  transform: matrix(-1, 0, 0, -1, 0, 0);
+}
+.trackAndStop.trackAndStop {
+  max-width: 100%;
+  max-height: 100%;
+}
+.track2.track2 {
+  max-width: 100%;
+  max-height: 100%;
+}
+.track.track {
+  max-width: 100%;
+  max-height: 100%;
+}
+.linearIndeterminateProgressInd.linearIndeterminateProgressInd {
+  transform-origin: top left;
+  left: 1249.4298px;
+  top: 1764.1396px;
+  width: 1412.2109px;
+  transform: matrix(0.008, -1, 1, 0.008, 0, 0);
+}
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle10 {
+  position: absolute;
+  left: 260px;
+  top: 892px;
+  width: 885px;
+  height: 100px;
+  background-color: #d9d9d9;
+}
+.rectangle9 {
+  position: absolute;
+  left: 260px;
+  top: 729px;
+  width: 885px;
+  height: 100px;
+  background-color: #d9d9d9;
+}
+.hKGTP {
+  position: absolute;
+  left: 296px;
+  top: 742px;
+  width: 352px;
+  height: 73px;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 48px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #141212;
+  font-size: 64px;
+  line-height: 140%;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label2 {
+  color: #141212;
+  font-size: 48px;
+  line-height: 140%;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.rectangle8 {
+  position: absolute;
+  left: 261px;
+  top: 584px;
+  width: 885px;
+  height: 86px;
+  background-color: #d9d9d9;
+}
+.cX334 {
+  color: #141212;
+  font-size: 64px;
+  line-height: 140%;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 296px;
+  top: 584px;
+  width: 580px;
+  height: 91px;
+  flex-direction: column;
+}
+.planeDetails {
+  color: #151414;
+  font-size: 64px;
+  line-height: 140%;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 292px;
+  top: 388px;
+  width: 895px;
+  height: 208px;
+  flex-direction: column;
+}
+.rectangle6 {
+  position: absolute;
+  left: 1334px;
+  top: 892px;
+  width: 1055px;
+  height: 200px;
+  background-color: #d9d9d9;
+}
+.rule2 {
+  color: #141212;
+  font-size: 64px;
+  line-height: 140%;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1377px;
+  top: 924px;
+  width: 304px;
+  height: 146px;
+  flex-direction: column;
+}
+.rectangle7 {
+  position: absolute;
+  left: 1334px;
+  top: 1190px;
+  width: 1055px;
+  height: 200px;
+  background-color: #d9d9d9;
+}
+.rule3 {
+  color: #141212;
+  font-size: 64px;
+  line-height: 140%;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1376px;
+  top: 1244px;
+  width: 304px;
+  height: 146px;
+  flex-direction: column;
+}
+.rectangle5 {
+  position: absolute;
+  left: 1334px;
+  top: 588px;
+  width: 1055px;
+  height: 200px;
+  background-color: #d9d9d9;
+}
+.rule1 {
+  color: #141212;
+  font-size: 64px;
+  line-height: 140%;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1376px;
+  top: 615px;
+  width: 304px;
+  height: 146px;
+  flex-direction: column;
+}

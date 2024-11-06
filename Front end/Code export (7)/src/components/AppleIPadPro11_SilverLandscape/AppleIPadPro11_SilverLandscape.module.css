@@ -1,0 +1,75 @@
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 1px #000;
+  outline-offset: -1px;
+  background-color: #fff;
+}
+.appleIPadPro11_SilverLandscape {
+  z-index: 0;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-image:/* webpackIgnore: true */ url('/assets/appleIPadPro11_SilverLandscape.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle1 {
+  z-index: 0;
+  position: absolute;
+  left: 2100px;
+  top: 200px;
+  width: 490px;
+  height: 1670px;
+  border-radius: 30px;
+  background-color: #d9d9d9;
+}
+.rECYCLABLE {
+  color: #000;
+  font-size: 60px;
+  font-family: SF Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.5px;
+  z-index: 0;
+  position: absolute;
+  left: calc(50% - 783.5px);
+  top: 1295px;
+  width: 383px;
+  height: 90px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.ellipse17 {
+  z-index: 0;
+  position: absolute;
+  left: 11.1191%;
+  right: 67.3601%;
+  top: 50.2901%;
+  bottom: 20.6963%;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.ellipse18 {
+  z-index: 0;
+  position: absolute;
+  left: 11.1191%;
+  right: 67.3601%;
+  top: 50.2901%;
+  bottom: 20.6963%;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}

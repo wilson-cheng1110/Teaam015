@@ -1,0 +1,14 @@
+.root {
+  height: 100%;
+  font-family: sans-serif;
+  background-color: #1e1e1e;
+  flex-basis: 100%;
+  overflow-y: auto;
+}
+.b.b {
+  width: initial;
+  height: initial;
+}
+.i2.i2 {
+  background-image:/* webpackIgnore: true */ url('/assets/i2.png');
+}

@@ -1,0 +1,27 @@
+.root {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  width: 404px;
+  height: 12px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 0 2px;
+}
+.track {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  padding: 4px 0 4px 2px;
+  transform: translateY(-50%);
+}
+.trackShape {
+  height: 4px;
+  align-self: stretch;
+  border-radius: 8px;
+  background-color: #e8def8;
+}

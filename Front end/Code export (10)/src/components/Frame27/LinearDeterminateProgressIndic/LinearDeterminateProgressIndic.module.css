@@ -1,0 +1,58 @@
+.root {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  width: 404px;
+  height: 12px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 0 2px;
+}
+.trackAndStop {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  height: min-content;
+  flex: 1;
+  align-items: center;
+  padding: 0 0 0 2px;
+  transform: translateY(-50%);
+}
+.track2 {
+  position: relative;
+  height: 12px;
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.track {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  height: 4px;
+  border-radius: 8px;
+  background-color: #e8def8;
+  transform: translateY(-50%);
+}
+.stop {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  width: 4px;
+  height: 4px;
+  flex-direction: column;
+  align-items: flex-start;
+  transform: translateY(-50%);
+}
+.stopShape {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 4px;
+  height: 4px;
+  border-radius: 26px;
+  background-color: #65558f;
+  transform: translate(-50%, -50%);
+}
