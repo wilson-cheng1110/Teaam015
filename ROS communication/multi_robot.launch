@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="multi_robot_comm" type="master_discovery.py" name="master_discovery" output="screen"/>
+    <node pkg="multi_robot_comm" type="master_sync.py" name="master_sync" output="screen"/>
+    <node pkg="multi_robot_comm" type="robot_control.py" name="robot_control" output="screen"/>
+</launch>
